@@ -1,0 +1,4 @@
+#RewriteEngine on
+
+#RewriteRule ^index.html.var$ http://localhost:40000/$1 [L,P,QSA]
+#RewriteRule (.*) http://localhost:40000/$1 [P,L]

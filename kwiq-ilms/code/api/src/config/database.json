@@ -1,0 +1,8 @@
+{
+  "username": "kwiq_user",
+  "password": "kwiq@cademy2019",
+  "database": "kwiq_db",
+  "host": "127.0.0.1",
+  "dialect": "mysql",
+  "seederStorage": "sequelize"
+}

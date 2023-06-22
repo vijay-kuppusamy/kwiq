@@ -1,0 +1,57 @@
+
+GET http://localhost:40000/units/1
+
+###
+
+GET http://localhost:40000/subjects/1
+
+###
+
+GET http://localhost:40000/chapters/1
+
+###
+
+GET http://localhost:40000/questions/0/10
+
+###
+
+GET http://localhost:40000/questions/1
+
+###
+
+POST http://localhost:40000/questions HTTP/1.1
+content-type: application/json
+
+{
+    "question": "The fundamental frequency in an open organ pipe is equal to the third harmonic of a closed organ pipe. If the length of the closed organ pipe is 20 cm, the length of the open organ pipe is",
+    "optionA": "12·5 cm",
+    "optionB": "8 cm",
+    "optionC": "13·2 cm",
+    "optionD": "16 cm",
+    "neetQuestionyear": 2018,
+    "neetQuestionNo": 2,
+    "isActive": 1,
+    "subjectId": 1
+}
+
+###
+
+GET http://localhost:40000/exams
+
+###
+
+
+POST http://localhost:40000/exams HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "name": "NEET Mini",
+    "description": "NEET Mini",
+    "image": null,
+    "noOfQues": 10,
+    "markPerQue": 4,
+    "negativeMarkPerQue": 1,
+    "durationInMins": 10,
+    "isActive": true
+  }

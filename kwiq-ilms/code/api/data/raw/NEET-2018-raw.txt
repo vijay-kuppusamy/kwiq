@@ -1,0 +1,1635 @@
+ACHLA/AA/Page 1 SPACE FOR ROUGH WORK English 
+AA 
+                   Test Booklet Code 
+ 
+              This Booklet contains 24 pages. 
+ 
+  Do not open this Test Booklet until you are asked to do so. 
+Read carefully the Instructions on the Back Cover of this Test Booklet. 
+Important Instructions : 
+1. The Answer Sheet is inside this Test Booklet. When you are directed to open the Test Booklet, 
+take  out  the  Answer  Sheet  and  fill  in  the  particulars  on Side-1 and Side-2 carefully  with 
+blue/black ball point pen only. 
+2. The  test  is  of 3  hours duration  and this Test  Booklet  contains 180 questions. Each question 
+carries 4 marks.  For  each  correct  response, the  candidate  will  get 4 marks.  For  each  incorrect 
+response, one mark will be deducted from the total scores. The maximum marks are 720. 
+3. Use Blue/Black Ball Point Pen only for writing particulars on this page/marking responses. 
+4. Rough work is to be done on the space provided for this purpose in the Test Booklet only. 
+5. On  completion  of  the  test,  the  candidate  must  hand  over  the  Answer  Sheet  to  the 
+Invigilator before  leaving the  Room/Hall. The  candidates  are  allowed  to  take  away 
+this Test Booklet with them. 
+6. The CODE for this Booklet is AA. Make sure that the CODE printed on Side-2 of the Answer 
+Sheet  is  the  same  as  that  on  this Test Booklet.  In  case  of  discrepancy,  the  candidate  should 
+immediately  report  the  matter  to  the  Invigilator  for  replacement  of  both  the  Test  Booklet  and 
+the Answer Sheet. 
+7. The  candidates  should  ensure  that  the  Answer  Sheet  is  not  folded.  Do  not  make  any  stray 
+marks  on  the  Answer  Sheet.  Do  not  write  your  Roll  No.  anywhere  else  except  in  the  specified 
+space in the Test Booklet/Answer Sheet. 
+8. Use of white fluid for correction is not permissible on the Answer Sheet. 
+ 
+Name of the Candidate (in Capitals) : _____________________________________________________________________ 
+Roll Number : in figures _________________________________________________________________________________ 
+  : in words __________________________________________________________________________________ 
+Centre of Examination (in Capitals) : _____________________________________________________________________ 
+Candidate’s Signature : __________________________ Invigilator’s Signature : ________________________________ 
+Facsimile signature stamp of 
+Centre Superintendent : ______________________________________________________________________________ 
+*0AA*
+ 
+ACHLA 
+----------------Page (0) Break----------------
+ACHLA/AA/Page 2 SPACE FOR ROUGH WORK English 
+1. The  volume  (V)  of    a  monatomic  gas  varies  with 
+its  temperature  (T),  as  shown  in  the  graph.  The 
+ratio   of   work   done   by   the   gas,   to   the   heat 
+absorbed by it, when it undergoes a change from 
+state A to state B, is  
+  
+(1) 31 
+(2) 
+32
+ 
+(3) 
+52
+ 
+(4) 
+72
+ 
+2. The  fundamental  frequency  in  an  open  organ 
+pipe  is  equal  to  the  third  harmonic  of a  closed 
+organ pipe. If the length of the closed organ pipe 
+is 20 cm, the length of the open organ pipe is  
+(1) 12·5 cm 
+(2) 8 cm 
+(3) 13·2 cm 
+(4) 16 cm 
+3. At   what   temperature   will   the   rms   speed   of 
+oxygen   molecules   become   just   sufficient   for 
+escaping from the Earth’s atmosphere ? 
+ (Given :  
+ Mass of oxygen molecule (m) = 2·76  10–26 kg 
+ Boltzmann’s constant kB = 1·38  10–23 J K–1) 
+(1) 5·016  104 K 
+(2) 8·360  104 K 
+(3) 2·508  104 K 
+(4) 1·254  104 K 
+4. The  efficiency  of  an  ideal  heat  engine  working 
+between  the  freezing  point  and  boiling  point  of 
+water, is 
+(1) 6·25% 
+(2) 20% 
+(3) 26·8% 
+(4) 12·5% 
+5. A carbon resistor of (47  4·7) k is to be marked 
+with     rings     of     different     colours     for     its 
+identification. The colour code sequence will be 
+(1) Yellow –  Green – Violet – Gold 
+(2) Yellow –  Violet – Orange – Silver 
+(3) Violet –  Yellow –  Orange –  Silver 
+(4) Green –  Orange –  Violet –  Gold  
+6. A set of ‘n’ equal resistors, of value ‘R’ each, are 
+connected  in  series  to  a  battery  of  emf  ‘E’  and 
+internal  resistance ‘R’.  The  current  drawn  is  I. 
+Now, the ‘n’ resistors are  connected in parallel to 
+the  same  battery.  Then  the  current  drawn  from 
+battery becomes 10 I. The value of ‘n’ is 
+(1) 20 
+(2) 11 
+(3) 10 
+(4) 9 
+7. A  battery  consists  of  a  variable  number  ‘n’  of 
+identical cells  (having  internal  resistance  ‘r’ 
+each)    which    are    connected    in    series.    The 
+terminals  of  the  battery  are  short-circuited  and 
+the  current  I  is  measured.  Which  of  the  graphs 
+shows the correct relationship between I and n ?  
+ 
+----------------Page (1) Break----------------
+ACHLA/AA/Page 3 SPACE FOR ROUGH WORK English 
+8. Unpolarised light is incident from air on a plane 
+surface of a material of refractive index ‘’. At a 
+particular angle of incidence ‘i’, it is found that 
+the      reflected      and      refracted      rays      are 
+perpendicular   to   each   other.   Which   of   the 
+following options is correct for this situation ? 
+(1) i = sin–1
+1
+ 
+(2) Reflected  light  is  polarised  with  its  electric 
+vector    perpendicular    to    the    plane    of 
+incidence 
+(3) Reflected  light  is  polarised  with  its  electric 
+vector parallel to the plane of incidence 
+(4) i = tan–1
+1
+ 
+ 
+9. In Young’s double slit experiment the separation 
+d between the slits is 2 mm, the wavelength  of 
+the light used is 5896 Å and distance D between 
+the screen and slits is 100 cm. It is found that the 
+angular width of the fringes is 0·20. To increase 
+the  fringe  angular  width  to  0·21 (with  same  
+and D) the separation between the slits needs to 
+be changed to 
+(1) 2·1 mm 
+(2) 1·9 mm 
+(3) 1·8 mm 
+(4) 1·7 mm 
+10. An  astronomical  refracting  telescope  will  have 
+large  angular  magnification  and  high  angular 
+resolution, when it has an objective lens of  
+(1) large focal length and large diameter 
+(2) large focal length and small diameter 
+(3) small focal length and large diameter 
+(4) small focal length and small diameter 
+11. The  ratio  of  kinetic  energy  to  the  total  energy  of 
+an electron in a Bohr orbit of the hydrogen atom, 
+is 
+(1) 2 : – 1 
+(2) 1 : – 1 
+(3) 1 : 1 
+(4) 1 : – 2 
+12. An  electron  of  mass  m  with  an  initial  velocity  
+V= V0^i (V0  >  0)    enters    an electric    field  
+E = – E0^i (E0 = constant > 0) at t = 0. If 0 is 
+its   de-Broglie   wavelength   initially,   then   its  
+de-Broglie wavelength at time t is 
+(1) 0 t 
+(2) 0 
+tmVeE100
+ 
+(3) 
+
+
+tmVeE100
+0 
+(4) 0 
+13. For     a     radioactive     material,     half-life     is  
+10  minutes.  If  initially  there  are  600  number  of 
+nuclei,   the   time   taken   (in   minutes)   for   the 
+disintegration of 450 nuclei is 
+(1) 30 
+(2) 10 
+(3) 20 
+(4) 15 
+14. When  the  light  of  frequency  2v0 (where v0 is 
+threshold   frequency),   is   incident   on   a   metal 
+plate, the maximum velocity of electrons emitted 
+is   v1.   When   the   frequency   of   the   incident 
+radiation   is   increased   to   5v0,   the   maximum 
+velocity of electrons emitted from the same plate 
+is v2. The ratio of v1 to v2 is 
+(1) 4 : 1 
+(2) 1 : 4 
+(3) 1 : 2 
+(4) 2 : 1 
+----------------Page (2) Break----------------
+ACHLA/AA/Page 4 SPACE FOR ROUGH WORK English 
+15. In  the  circuit  shown  in  the  figure,  the  input 
+voltage  Vi is  20  V,  VBE =  0  and VCE =  0.  The 
+values of IB, IC and  are given by  
+  
+(1) IB = 20 A,  IC = 5 mA,   = 250 
+(2) IB = 25 A,  IC = 5 mA,   = 200 
+(3) IB = 40 A,  IC = 10 mA,   = 250 
+(4) IB = 40 A,  IC = 5 mA,   = 125 
+16. In  a  p-n  junction  diode,  change  in  temperature 
+due to heating 
+(1) does not affect resistance of p-n junction 
+(2) affects only forward resistance  
+(3) affects only reverse resistance 
+(4) affects  the  overall  V – I  characteristics  of  
+p-n junction  
+17. In  the  combination  of  the  following  gates  the 
+output Y can be written in terms of inputs A and 
+B as 
+ 
+(1) BA. + A . B 
+(2) A . –B + –A . B 
+(3) BA. 
+(4) BA 
+18. An  em  wave  is  propagating  in  a  medium  with  a 
+velocity V =  V^i.  The  instantaneous  oscillating 
+electric  field  of  this  em  wave  is  along  +y  axis. 
+Then the direction of oscillating magnetic field of 
+the em wave will be along 
+(1) – y direction 
+(2) + z direction  
+(3) – z direction 
+(4) – x direction 
+19. The refractive index of the material of a prism is 
+2 and the angle of the prism is 30. One of the 
+two    refracting  surfaces  of  the  prism  is  made  a 
+mirror  inwards,  by  silver  coating.  A  beam  of 
+monochromatic light entering the prism from the 
+other  face  will  retrace  its  path  (after  reflection 
+from the silvered surface) if its angle of incidence 
+on the prism is 
+(1) 30 
+(2) 45 
+(3) 60 
+(4) zero 
+20. An object is placed at a distance of 40 cm from a 
+concave mirror of focal length 15 cm. If the object 
+is displaced through a distance of 20 cm towards 
+the mirror, the displacement of the image will be   
+(1) 30 cm towards the mirror 
+(2) 36 cm away from the mirror 
+(3) 30 cm away from the mirror 
+(4) 36 cm towards the mirror 
+21. The magnetic potential energy stored in a certain 
+inductor   is   25   mJ,  when   the   current   in   the 
+inductor is 60 mA. This inductor is of inductance  
+(1) 1·389 H 
+(2) 138·88 H 
+(3) 0·138 H 
+(4) 13·89 H 
+----------------Page (3) Break----------------
+ACHLA/AA/Page 5 SPACE FOR ROUGH WORK English 
+22. An  electron  falls  from  rest  through  a  vertical 
+distance  h  in  a  uniform  and  vertically  upward 
+directed  electric  field  E.  The  direction  of  electric 
+field  is  now  reversed,  keeping  its  magnitude  the 
+same.  A  proton  is  allowed  to  fall  from  rest  in  it 
+through the same vertical distance h. The time of 
+fall  of  the  electron,  in  comparison  to  the  time  of 
+fall of the proton is  
+(1) 10 times greater 
+(2) 5 times greater 
+(3) smaller 
+(4) equal 
+23. The electrostatic  force  between  the  metal  plates 
+of an isolated parallel plate capacitor C having a 
+charge Q and area A, is 
+(1) proportional   to   the   square   root   of   the 
+distance between the plates. 
+(2) linearly    proportional    to    the    distance 
+between the plates. 
+(3) independent  of  the  distance  between  the 
+plates. 
+(4) inversely    proportional    to    the    distance 
+between the plates. 
+24. A  tuning  fork  is  used  to  produce  resonance  in  a 
+glass  tube.  The  length  of the  air  column  in    this 
+tube  can  be  adjusted  by  a  variable  piston.  At 
+room    temperature    of    27C    two    successive 
+resonances  are  produced  at  20  cm  and  73  cm  of  
+column length. If the frequency of the tuning fork 
+is 320 Hz, the velocity of sound in air at 27C is  
+(1) 350 m/s 
+(2) 339 m/s 
+(3) 330 m/s 
+(4) 300 m/s 
+25. A   pendulum   is   hung   from   the   roof   of   a 
+sufficiently high building and is moving freely  to 
+and  fro  like  a  simple  harmonic  oscillator.  The 
+acceleration   of   the   bob   of   the   pendulum   is  
+20  m/s2 at  a  distance  of  5  m  from  the  mean 
+position. The time period of oscillation is 
+(1) 2 s 
+(2)  s 
+(3) 2 s 
+(4) 1 s 
+26.  A    metallic    rod    of    mass    per    unit    length  
+0·5  kg  m–1 is  lying  horizontally  on  a  smooth 
+inclined plane which makes an angle of 30 with 
+the  horizontal.  The  rod  is  not  allowed  to  slide 
+down  by  flowing  a  current  through  it  when  a 
+magnetic field of induction 0·25 T is acting on it 
+in  the  vertical  direction.  The  current  flowing  in 
+the rod to keep it stationary is 
+(1) 14·76 A 
+(2) 5·98 A 
+(3) 7·14 A 
+(4) 11·32 A 
+27. A   thin   diamagnetic   rod   is   placed   vertically 
+between the poles of an electromagnet. When the 
+current in the electromagnet is switched on, then 
+the  diamagnetic  rod  is  pushed  up,  out  of  the 
+horizontal  magnetic  field.  Hence  the  rod  gains 
+gravitational     potential     energy.     The     work 
+required to do this comes from 
+(1) the  lattice  structure  of  the  material  of  the 
+rod  
+(2) the magnetic field 
+(3) the current source 
+(4) the    induced    electric    field    due    to    the 
+changing magnetic field 
+28. An  inductor  20  mH,  a  capacitor  100 F  and  a 
+resistor 50  are  connected  in  series  across  a 
+source of emf, V = 10 sin 314 t. The power loss in 
+the circuit is 
+(1) 2·74 W 
+(2) 0·43 W 
+(3) 0·79 W 
+(4) 1·13 W 
+29. Current sensitivity of a moving coil galvanometer 
+is  5  div/mA  and  its  voltage  sensitivity  (angular 
+deflection  per  unit  voltage  applied)  is  20  div/V. 
+The resistance of the galvanometer is 
+(1) 250  
+(2) 25  
+(3) 40  
+(4) 500  
+----------------Page (4) Break----------------
+ACHLA/AA/Page 6 SPACE FOR ROUGH WORK English 
+30. A   body   initially   at   rest   and   sliding   along   a 
+frictionless  track  from  a  height  h  (as  shown  in 
+the  figure)  just  completes  a  vertical circle  of 
+diameter AB = D. The height h is equal to 
+  
+(1) 57D 
+(2) D 
+(3) 
+23
+D 
+(4) 
+45
+D 
+31. Three  objects,  A  :  (a  solid  sphere),  B  :  (a  thin 
+circular disk) and C : (a circular ring), each have 
+the  same  mass  M  and  radius  R.  They  all  spin 
+with  the  same  angular  speed  about  their  own 
+symmetry   axes.   The   amounts   of   work   (W) 
+required to bring them to rest, would satisfy the 
+relation   
+(1) WB > WA > WC 
+(2) WA > WB > WC    
+(3) WC > WB > WA 
+(4) WA > WC > WB 
+32. A  moving  block  having  mass  m,  collides  with 
+another  stationary  block  having  mass  4m.  The 
+lighter  block  comes  to  rest  after  collision.  When 
+the  initial  velocity  of  the  lighter  block  is  v,  then 
+the value of coefficient of restitution (e) will be   
+(1) 0·8 
+(2) 0·25 
+(3) 0·5 
+(4) 0·4 
+33. Which    one    of    the    following    statements    is 
+incorrect ?  
+(1) Frictional force opposes the relative motion. 
+(2) Limiting  value  of  static  friction  is  directly 
+proportional to normal reaction. 
+(3) Rolling   friction   is   smaller   than   sliding 
+friction. 
+(4) Coefficient      of      sliding      friction      has 
+dimensions of length. 
+34. A  toy  car  with  charge  q  moves  on  a  frictionless 
+horizontal plane surface under the influence of a 
+uniform  electric  field E.  Due  to the  force  q,E 
+its  velocity  increases  from  0  to  6  m/s  in  one 
+second  duration.  At  that  instant  the  direction  of 
+the  field  is  reversed.  The  car  continues  to  move 
+for two more seconds under the influence of this 
+field. The average velocity and the average speed 
+of   the   toy   car   between   0   to   3   seconds   are 
+respectively 
+(1) 1 m/s,  3·5 m/s 
+(2) 1 m/s,  3 m/s 
+(3) 2 m/s,  4 m/s 
+(4) 1·5 m/s,  3 m/s 
+35. A block of mass m is placed on a smooth inclined 
+wedge  ABC  of  inclination  as  shown  in  the 
+figure.  The  wedge  is  given  an  acceleration  ‘a’ 
+towards  the  right.  The  relation  between  a  and  
+for  the  block  to  remain  stationary  on  the  wedge 
+is 
+  
+(1) a = g cos  
+(2) a = 
+sing
+ 
+(3) a = 
+eccosg
+ 
+(4) a = g tan  
+36. The moment of the force, F= 4^i + 5^j – 6^k at 
+(2, 0, – 3), about the point (2, – 2, – 2), is given by  
+(1) – 7^i – 8^j – 4^k 
+(2) – 4^i – ^j – 8^k 
+(3) – 8^i – 4^j – 7^k 
+(4) – 7^i – 4^j – 8^k 
+37. A student measured the diameter of a small steel 
+ball    using    a    screw    gauge    of    least    count  
+0·001  cm.  The  main  scale  reading  is  5  mm  and 
+zero   of   circular   scale   division   coincides   with  
+25  divisions  above  the  reference  level.  If  screw 
+gauge has a zero error of – 0·004 cm, the correct 
+diameter of the ball is 
+(1) 0·053 cm 
+(2) 0·525 cm 
+(3) 0·521 cm 
+(4) 0·529 cm 
+----------------Page (5) Break----------------
+ACHLA/AA/Page 7 SPACE FOR ROUGH WORK English 
+38. A   solid   sphere   is   rotating   freely   about   its 
+symmetry  axis  in  free  space.  The  radius  of  the 
+sphere   is   increased   keeping   its   mass   same. 
+Which of the following physical quantities would 
+remain constant for the sphere ? 
+(1) Rotational kinetic energy 
+(2) Moment of inertia 
+(3) Angular velocity 
+(4) Angular momentum 
+39. The  kinetic  energies  of  a  planet  in  an  elliptical 
+orbit about the Sun, at positions A, B  and C are 
+KA,    KB and  KC,  respectively.  AC  is  the  major 
+axis   and   SB   is   perpendicular   to   AC   at   the 
+position  of  the  Sun  S  as  shown  in  the  figure. 
+Then 
+    
+(1) KB < KA < KC 
+(2) KA > KB > KC 
+(3) KA < KB < KC 
+(4) KB > KA > KC 
+40. If  the  mass  of  the  Sun  were  ten  times  smaller 
+and  the  universal  gravitational  constant  were 
+ten  times  larger  in  magnitude,  which  of  the 
+following is not correct ?  
+(1) Time  period  of  a  simple  pendulum  on  the 
+Earth would decrease. 
+(2) Walking on the ground would become more 
+difficult. 
+(3) Raindrops will fall faster. 
+(4) ‘g’ on the Earth will not change. 
+41. A  solid  sphere  is  in  rolling  motion.  In  rolling 
+motion  a  body  possesses  translational   kinetic 
+energy  (Kt)  as  well  as  rotational  kinetic  energy 
+(Kr)  simultaneously.  The  ratio  Kt :  (Kt +  Kr)  for 
+the sphere is  
+(1) 10 : 7 
+(2) 5 : 7 
+(3) 7 : 10 
+(4) 2 : 5 
+42. A small sphere of radius ‘r’ falls from rest in a 
+viscous  liquid.  As  a  result,  heat  is  produced  due 
+to  viscous  force.  The  rate  of  production  of heat 
+when  the  sphere  attains  its  terminal  velocity,  is 
+proportional to 
+(1) r5 
+(2) r2 
+(3) r3 
+(4) r4 
+43. The  power  radiated  by  a  black  body  is  P  and  it  
+radiates  maximum  energy  at  wavelength, 0.  If 
+the   temperature   of   the   black   body   is   now 
+changed  so  that  it radiates  maximum  energy  at 
+wavelength 430,   the   power   radiated   by   it 
+becomes nP. The value of n is  
+(1) 81256 
+(2) 
+34
+ 
+(3) 
+43
+ 
+(4) 
+25681
+ 
+44. Two  wires  are  made of  the  same  material  and 
+have   the   same   volume.   The   first   wire   has  
+cross-sectional  area  A  and  the  second  wire  has 
+cross-sectional  area  3A.  If  the  length  of  the  first 
+wire  is  increased  by l on  applying  a  force  F, 
+how  much  force  is  needed  to  stretch  the  second 
+wire by the same amount ?  
+(1) 4 F 
+(2) 6 F 
+(3) 9 F 
+(4) F 
+45. A  sample  of  0·1  g  of  water  at  100C  and  normal 
+pressure  (1·013  105 Nm–2)  requires  54  cal  of 
+heat  energy  to  convert  to  steam  at  100C.  If  the 
+volume  of  the  steam  produced  is  167·1  cc,  the 
+change in internal energy of the sample, is 
+(1) 42·2 J 
+(2) 208·7 J 
+(3) 104·3 J 
+(4) 84·5 J 
+----------------Page (6) Break----------------
+ACHLA/AA/Page 8 SPACE FOR ROUGH WORK English 
+46. The    correct    order    of    N-compounds    in    its 
+decreasing order of oxidation states is  
+(1) HNO3, NH4Cl, NO, N2 
+(2) HNO3, NO, NH4Cl, N2 
+(3) HNO3, NO,  N2, NH4Cl 
+(4) NH4Cl, N2, NO, HNO3 
+47. Which one of the following elements is unable to 
+form –36MFion ?  
+(1) B 
+(2) Al 
+(3) Ga 
+(4) In 
+48. Considering  Ellingham  diagram,  which  of  the 
+following metals can be used to reduce alumina ? 
+(1) Mg 
+(2) Zn 
+(3) Fe 
+(4) Cu 
+49. The  correct  order  of  atomic  radii  in  group  13 
+elements is 
+(1) B < Ga < Al < Tl < In 
+(2) B < Al < Ga < In < Tl 
+(3) B < Al < In < Ga < Tl 
+(4) B < Ga < Al < In < Tl 
+50. Which of the following statements is not true for 
+halogens ? 
+(1) All   but   fluorine   show positive   oxidation 
+states. 
+(2) All are oxidizing agents. 
+(3) All form monobasic oxyacids. 
+(4) Chlorine   has    the   highest   electron-gain 
+enthalpy. 
+51. In the structure of ClF3, the number of lone pairs 
+of electrons on central atom ‘Cl’ is 
+(1) four 
+(2) two 
+(3) one 
+(4) three 
+52. Identify  the  major  products  P,  Q  and  R  in  the 
+following sequence of reactions : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+53. Which  of  the  following  compounds  can  form  a  
+zwitterion ? 
+(1) Benzoic acid 
+(2) Acetanilide 
+(3) Aniline 
+(4) Glycine 
+----------------Page (7) Break----------------
+ACHLA/AA/Page 9 SPACE FOR ROUGH WORK English 
+54. Regarding   cross-linked   or   network   polymers, 
+which of the following statements is incorrect ?  
+(1) Examples are bakelite and melamine.  
+(2) They are formed from bi- and tri-functional 
+monomers. 
+(3) They    contain    covalent    bonds    between 
+various linear polymer chains. 
+(4) They contain strong covalent bonds in their 
+polymer chains. 
+55. Nitration of aniline in strong acidic medium also 
+gives m-nitroaniline because 
+(1) In   absence   of   substituents   nitro   group 
+always goes to m-position. 
+(2) In     electrophilic substitution     reactions 
+amino group is meta directive. 
+(3) In  spite  of  substituents  nitro  group  always 
+goes to only m-position. 
+(4) In acidic (strong) medium aniline is present 
+as anilinium ion.  
+56. The difference between amylose and amylopectin 
+is  
+(1) Amylopectin   have   1  4 -linkage   and  
+1  6 -linkage 
+(2) Amylose     have     1  4 -linkage     and  
+1  6 -linkage   
+(3) Amylopectin   have   1  4 -linkage   and  
+1  6 -linkage 
+(4) Amylose    is    made    up    of    glucose    and 
+galactose 
+57. A  mixture  of  2·3  g  formic  acid  and  4·5 g  oxalic 
+acid  is  treated  with  conc.  H2SO4.  The  evolved 
+gaseous  mixture  is  passed  through KOH  pellets. 
+Weight  (in  g)  of  the  remaining  product  at  STP 
+will be  
+(1) 2·8 
+(2) 3·0 
+(3) 1·4 
+(4) 4·4 
+58. Which  of  the  following  oxides  is  most  acidic  in 
+nature ? 
+(1) BaO 
+(2) BeO 
+(3) MgO 
+(4) CaO 
+59. Which   oxide   of   nitrogen   is not a   common 
+pollutant  introduced  into  the  atmosphere  both 
+due to natural and human activity ? 
+(1) N2O 
+(2) NO2 
+(3) N2O5 
+(4) NO 
+60. The  compound  A  on  treatment  with  Na  gives  B, 
+and with PCl5 gives C.  B and C react together to 
+give diethyl ether.  A, B and C are in the order  
+(1) C2H5Cl, C2H6, C2H5OH 
+(2) C2H5OH, C2H5Cl, C2H5ONa 
+(3) C2H5OH, C2H6, C2H5Cl 
+(4) C2H5OH, C2H5ONa, C2H5Cl 
+61. The   compound   C7H8 undergoes   the   following 
+reactions :  
+  
+The product ‘C’ is  
+(1) 3-bromo-2,4,6-trichlorotoluene  
+(2) o-bromotoluene 
+(3) m-bromotoluene 
+(4) p-bromotoluene 
+62. Hydrocarbon    (A)    reacts    with    bromine    by 
+substitution  to  form  an  alkyl  bromide  which  by 
+Wurtz     reaction     is     converted     to     gaseous 
+hydrocarbon  containing  less  than  four  carbon 
+atoms. (A) is 
+(1) CH3 – CH3 
+(2) CH2 = CH2 
+(3) CH  CH 
+(4) CH4 
+----------------Page (8) Break----------------
+ACHLA/AA/Page 10 SPACE FOR ROUGH WORK English 
+63. Which  of  the  following  molecules  represents  the 
+order of hybridisation sp2, sp2, sp, sp from left to 
+right atoms ?   
+(1) CH2 = CH – CH = CH2 
+(2) CH2 = CH – C  CH 
+(3) HC  C – C  CH 
+(4) CH3 – CH = CH – CH3 
+ 
+64. Which of the following carbocations is expected to 
+be most stable ? 
+ 
+ 
+65. Which  of  the  following  is  correct  with  respect  to  
+– I effect of the substituents ? (R = alkyl) 
+(1) – NH2 > – OR > – F 
+(2) – NR2 < – OR < – F 
+(3) – NH2 < – OR < – F 
+(4) – NR2 > – OR > – F 
+66. In the reaction  
+ 
+the electrophile involved is  
+(1) dichloromethyl anion () 
+(2) formyl cation (CHO) 
+(3) dichloromethyl cation (2CHCl) 
+(4) dichlorocarbene (:CCl2) 
+ 
+67. Carboxylic  acids  have  higher  boiling  points  than 
+aldehydes,    ketones    and    even    alcohols    of 
+comparable molecular mass. It is due to their  
+(1) more   extensive   association   of   carboxylic 
+acid via van der Waals force of attraction 
+(2) formation of carboxylate ion  
+(3) formation of intramolecular H-bonding 
+(4) formation of  intermolecular H-bonding  
+ 
+68. Compound  A,  C8H10O,  is  found  to  react  with 
+NaOI  (produced  by  reacting  Y  with  NaOH)  and 
+yields  a  yellow  precipitate  with  characteristic 
+smell.  
+ A and Y are respectively  
+ 
+ 
+----------------Page (9) Break----------------
+ACHLA/AA/Page 11 SPACE FOR ROUGH WORK English 
+69. Match the metal ions given in Column I with the 
+spin   magnetic   moments   of   the   ions   given   in 
+Column II and assign the correct code : 
+ Column I    Column II 
+a. Co3+ i. 8 B.M. 
+b. Cr3+ ii. 35 B.M. 
+c. Fe3+ iii. 3 B.M. 
+d. Ni2+ iv. 24 B.M. 
+  v. 15 B.M. 
+ a b c d  
+(1) iv i ii iii  
+(2) i ii iii iv  
+(3) iv v ii i  
+(4) iii v i ii  
+70. Which    one    of    the    following    ions    exhibits  
+d-d transition and paramagnetism as well ? 
+(1) –4MnO 
+(2) –272OCr 
+(3) –24CrO 
+(4) –24MnO 
+71. Iron carbonyl, Fe(CO)5 is 
+(1) trinuclear 
+(2) mononuclear 
+(3) tetranuclear 
+(4) dinuclear 
+72. The  type  of  isomerism  shown  by  the  complex  
+[CoCl2(en)2] is 
+(1) Ionization isomerism 
+(2) Coordination isomerism 
+(3) Geometrical isomerism 
+(4) Linkage isomerism 
+73. The  geometry  and  magnetic  behaviour  of  the 
+complex [Ni(CO)4] are  
+(1) square planar geometry and paramagnetic 
+(2) tetrahedral geometry and diamagnetic 
+(3) square planar geometry and diamagnetic 
+(4) tetrahedral geometry and paramagnetic 
+74. Following   solutions   were   prepared   by   mixing 
+different  volumes  of  NaOH  and  HCl  of  different 
+concentrations : 
+a. 60 mL 10M HCl + 40 mL 10M NaOH 
+b. 55 mL 
+10M
+ HCl + 45 mL 
+10M
+ NaOH 
+c. 75 mL 
+5M
+ HCl + 25 mL 
+5M
+ NaOH 
+d. 100 mL 
+10M
+ HCl + 100 mL 
+10M
+ NaOH 
+ pH of which one of them will be equal to 1 ? 
+(1) d 
+(2) a 
+(3) b 
+(4) c 
+75. On  which  of  the  following  properties  does  the 
+coagulating power of an ion depend ?  
+(1) Both  magnitude  and  sign  of  the  charge  on 
+the ion 
+(2) Size of the ion alone 
+(3) The  magnitude  of  the  charge  on  the  ion 
+alone 
+(4) The sign of charge on the ion alone 
+76. Given  van  der  Waals  constant  for  NH3,  H2,  O2 
+and  CO2 are  respectively  4·17, 0·244,  1·36  and 
+3·59,  which  one  of  the  following  gases  is  most 
+easily liquefied ? 
+(1) O2 
+(2) H2 
+(3) NH3 
+(4) CO2 
+77. The     solubility     of     BaSO4 in     water     is  
+2·42  10–3 gL–1 at   298 K.   The   value   of   its 
+solubility product (Ksp) will be  
+ (Given molar mass of BaSO4 = 233 g mol–1) 
+(1) 1·08  10–14 mol2 L–2 
+(2) 1·08  10–12 mol2 L–2 
+(3) 1·08  10–10 mol2 L–2 
+(4) 1·08  10–8 mol2 L–2 
+----------------Page (10) Break----------------
+ACHLA/AA/Page 12 SPACE FOR ROUGH WORK English 
+78. In which case is the number of molecules of water  
+maximum ? 
+(1) 0·00224  L  of  water  vapours  at  1  atm  and 
+273 K 
+(2) 0·18 g of water 
+(3) 18 mL of water 
+(4) 10–3 mol of water 
+79. The    correct    difference    between    first- and  
+second-order reactions is that  
+(1) a  first-order  reaction  can  be  catalyzed;  a 
+second-order reaction cannot be catalyzed 
+(2) the half-life of a first-order reaction does not 
+depend    on    [A]0;    the    half-life    of    a  
+second-order reaction does depend on [A]0 
+(3) the  rate  of  a  first-order  reaction  does  not 
+depend on reactant concentrations; the rate 
+of  a  second-order  reaction  does  depend  on 
+reactant concentrations 
+(4) the   rate of   a   first-order   reaction   does 
+depend on reactant concentrations; the rate 
+of  a  second-order  reaction  does  not  depend 
+on reactant concentrations  
+80. Among  CaH2,  BeH2,  BaH2,  the  order  of  ionic 
+character is  
+(1) BeH2 < BaH2 < CaH2 
+(2) CaH2 < BeH2 < BaH2 
+(3) BeH2 < CaH2 < BaH2 
+(4) BaH2 < BeH2 < CaH2 
+81. Consider   the   change   in   oxidation    state   of 
+Bromine corresponding to different emf values as 
+shown in the diagram below : 
+   
+ Then  the  species  undergoing  disproportionation 
+is 
+(1) Br2 
+(2) Br–4O 
+(3) Br–3O 
+(4) HBrO 
+82. For the redox reaction 
+ Mn–4O + C2–24O +  H+ Mn2+ + CO2 + H2O  
+ the  correct  coefficients  of  the  reactants  for  the 
+balanced equation are  
+ Mn–4O –242OC H+ 
+(1) 2 16 5  
+(2) 2  5 16 
+(3) 16  5 2 
+(4) 5 16 2 
+83. Which one of the following conditions will favour 
+maximum   formation   of   the   product   in   the 
+reaction, 
+ A2 (g) + B2 (g)  X2 (g)   rH = – X kJ ? 
+(1) High temperature and high pressure 
+(2) Low temperature and low pressure 
+(3) Low temperature and high pressure 
+(4) High temperature and low pressure 
+84. When   initial   concentration   of   the   reactant   is 
+doubled,   the   half-life   period   of   a   zero   order 
+reaction  
+(1) is tripled 
+(2) is doubled 
+(3) is halved 
+(4) remains unchanged 
+85. The  bond  dissociation  energies  of X2, Y2 and XY 
+are in the ratio of 1 : 0·5 : 1. H for the formation 
+of XY is – 200  kJ  mol–1.  The  bond  dissociation 
+energy of X2 will be    
+(1) 800 kJ mol–1 
+(2) 100 kJ mol–1 
+(3) 200 kJ mol–1 
+(4) 400 kJ mol–1 
+86. The correction factor ‘a’ to the ideal gas equation 
+corresponds to 
+(1) electric   field   present   between   the   gas 
+molecules 
+(2) volume of the gas molecules 
+(3) density of the gas molecules 
+(4) forces of    attraction    between    the    gas 
+molecules  
+----------------Page (11) Break----------------
+ACHLA/AA/Page 13 SPACE FOR ROUGH WORK English 
+87. Consider the following species :  
+ CN+,  CN–,  NO  and  CN  
+ Which  one  of  these  will  have  the  highest  bond 
+order ? 
+(1) CN+ 
+(2) CN– 
+(3) NO 
+(4) CN 
+88. Magnesium reacts with an element (X) to form an 
+ionic  compound.  If  the  ground  state  electronic 
+configuration  of  (X)  is 1s2 2s2 2p3,  the  simplest 
+formula for this compound is  
+(1) Mg2X 
+(2) MgX2 
+(3) Mg2X3 
+(4) Mg3X2 
+89. Iron  exhibits  bcc  structure  at  room  temperature. 
+Above  900C,  it  transforms  to  fcc  structure.  The 
+ratio  of  density  of  iron  at  room  temperature  to 
+that at 900C (assuming molar mass and atomic 
+radii of iron remains constant with temperature) 
+is 
+(1) 
+2433
+ 
+(2) 
+2334
+ 
+(3) 
+23
+ 
+(4) 
+21
+ 
+90. Which one is a wrong statement ? 
+(1) The electronic configuration of N atom is 
+  
+(2) An  orbital  is  designated  by  three  quantum 
+numbers  while  an  electron  in  an  atom  is 
+designated by four quantum numbers. 
+(3) Total orbital angular momentum of electron 
+in ‘s’ orbital is equal to zero. 
+(4) The value of m for 
+2zd
+ is zero. 
+91. Oxygen is not produced during photosynthesis by  
+(1) Cycas 
+(2) Nostoc 
+(3) Green sulphur bacteria 
+(4) Chara 
+92. Double fertilization is  
+(1) Fusion of two male gametes with one egg 
+(2) Fusion  of  one  male  gamete  with  two  polar 
+nuclei 
+(3) Fusion of two male gametes of a pollen tube 
+with two different eggs 
+(4) Syngamy and triple fusion 
+93. Which  one  of  the  following  plants  shows  a  very 
+close  relationship  with  a  species  of  moth,  where 
+none of the two can complete its life cycle without 
+the other ?  
+(1) Banana 
+(2) Yucca 
+(3) Hydrilla 
+(4) Viola   
+94. Pollen  grains  can  be  stored  for  several  years  in 
+liquid nitrogen having a temperature of 
+(1) – 196C 
+(2) – 80C 
+(3) – 120C 
+(4) – 160C 
+95. Which of the following elements is responsible for 
+maintaining turgor in cells ?   
+(1) Potassium 
+(2) Sodium 
+(3) Magnesium 
+(4) Calcium 
+96. What    is    the    role    of    NAD+ in    cellular  
+respiration ? 
+(1) It is a nucleotide source for ATP synthesis. 
+(2) It functions as an electron carrier. 
+(3) It functions as an enzyme. 
+(4) It is the final electron acceptor for anaerobic 
+respiration. 
+97. In  which  of  the  following  forms  is  iron  absorbed 
+by plants ? 
+(1) Free element 
+(2) Ferrous 
+(3) Ferric 
+(4) Both ferric and ferrous  
+----------------Page (12) Break----------------
+ACHLA/AA/Page 14 SPACE FOR ROUGH WORK English 
+98. Which  of  the  following  is  commonly  used  as  a 
+vector for introducing a DNA fragment in human 
+lymphocytes ? 
+(1)  phage 
+(2) Ti plasmid 
+(3) Retrovirus 
+(4) pBR 322 
+99. Use  of  bioresources  by  multinational  companies 
+and organisations without authorisation from the 
+concerned country and its people is called  
+(1) Biodegradation 
+(2) Biopiracy 
+(3) Bio-infringement 
+(4) Bioexploitation 
+100. In India,    the    organisation    responsible    for 
+assessing  the  safety  of  introducing  genetically 
+modified organisms for public use is  
+(1) Research        Committee        on        Genetic 
+Manipulation (RCGM) 
+(2) Council    for    Scientific    and    Industrial 
+Research (CSIR) 
+(3) Indian Council of Medical Research (ICMR) 
+(4) Genetic  Engineering  Appraisal  Committee 
+(GEAC) 
+101. The  correct  order  of  steps  in  Polymerase  Chain 
+Reaction (PCR) is 
+(1) Denaturation, Extension, Annealing 
+(2) Annealing, Extension, Denaturation 
+(3) Extension, Denaturation, Annealing 
+(4) Denaturation, Annealing, Extension 
+102. Select the correct match : 
+(1) T.H. Morgan  – Transduction  
+(2) F2  Recessive parent  – Dihybrid cross 
+(3) Ribozyme – Nucleic acid 
+(4) G. Mendel  – Transformation  
+103. A ‘new’ variety of rice was patented by a foreign 
+company,   though   such   varieties   have   been 
+present in India for a long time. This is related to  
+(1) Lerma Rojo 
+(2) Sharbati Sonora 
+(3) Co-667 
+(4) Basmati 
+104. Which    of    the    following    pairs    is wrongly  
+matched ? 
+(1) XO type sex  :  Grasshopper  
+ determination 
+(2) ABO blood grouping  :  Co-dominance 
+(3) Starch synthesis in pea :  Multiple alleles 
+(4) T.H. Morgan  :  Linkage 
+105. Select the correct statement : 
+(1) Spliceosomes take part in translation. 
+(2) Punnett  square  was  developed  by  a  British 
+scientist. 
+(3) Franklin Stahl coined the term ‘‘linkage’’. 
+(4) Transduction was discovered by S. Altman. 
+106. The   experimental   proof   for   semiconservative 
+replication of DNA was first shown in a  
+(1) Plant 
+(2) Bacterium 
+(3) Fungus 
+(4) Virus 
+107. Which  of  the  following  flowers  only  once  in  its  
+life-time ? 
+(1) Mango 
+(2) Jackfruit 
+(3) Bamboo species 
+(4) Papaya 
+108. Offsets are produced by 
+(1) Parthenocarpy 
+(2) Mitotic divisions 
+(3) Meiotic divisions 
+(4) Parthenogenesis 
+109. Select the correct match : 
+(1) Matthew Meselson –  Pisum sativum 
+ and F. Stahl       
+(2) Alfred Hershey and –  TMV 
+ Martha Chase 
+(3) Alec Jeffreys – Streptococcus  
+   pneumoniae 
+(4) Francois Jacob and – Lac operon  
+ Jacques Monod  
+110. Which  of  the  following  has  proved  helpful  in 
+preserving pollen as fossils ?  
+(1) Oil content 
+(2) Cellulosic intine 
+(3) Pollenkitt 
+(4) Sporopollenin 
+----------------Page (13) Break----------------
+ACHLA/AA/Page 15 SPACE FOR ROUGH WORK English 
+111. Natality refers to  
+(1) Number of individuals leaving the habitat 
+(2) Birth rate 
+(3) Death rate 
+(4) Number of individuals entering a habitat 
+112. World Ozone Day is celebrated on 
+(1) 16th September 
+(2) 21st April 
+(3) 5th June 
+(4) 22nd April 
+113. Which of the following is a secondary pollutant ? 
+(1) SO2 
+(2) CO2 
+(3) CO 
+(4) O3 
+114. Niche is  
+(1) the range of temperature that the organism 
+needs to live 
+(2) the physical space where an organism lives 
+(3) all  the biological factors  in the organism’s 
+environment  
+(4) the  functional  role  played  by  the  organism 
+where it lives 
+115. What   type   of   ecological   pyramid   would   be 
+obtained with the following data ? 
+ Secondary consumer : 120 g 
+ Primary consumer : 60 g 
+ Primary producer : 10 g 
+(1) Upright pyramid of numbers 
+(2) Pyramid of energy 
+(3) Inverted pyramid of biomass 
+(4) Upright pyramid of biomass 
+116. In  stratosphere,  which  of  the  following  elements 
+acts  as  a  catalyst  in  degradation  of  ozone  and 
+release of molecular oxygen ? 
+(1) Fe 
+(2) Cl 
+(3) Carbon 
+(4) Oxygen 
+117. The   two   functional   groups   characteristic   of 
+sugars are  
+(1) carbonyl and phosphate 
+(2) carbonyl and methyl 
+(3) hydroxyl and methyl 
+(4) carbonyl and hydroxyl 
+118. Which among the following is not a prokaryote ? 
+(1) Nostoc 
+(2) Mycobacterium 
+(3) Saccharomyces 
+(4) Oscillatoria 
+119. The Golgi complex participates in 
+(1) Respiration in bacteria 
+(2) Formation of secretory vesicles 
+(3) Fatty acid breakdown 
+(4) Activation of amino acid 
+120. Which  of  the  following  is not a  product  of  light 
+reaction of photosynthesis ?  
+(1) NADPH 
+(2) NADH 
+(3) ATP 
+(4) Oxygen 
+121. Which of the following is true for nucleolus ? 
+(1) It takes part in spindle formation. 
+(2) It is a membrane-bound structure.  
+(3) Larger nucleoli are present in dividing cells. 
+(4) It   is   a   site   for   active   ribosomal   RNA 
+synthesis. 
+122. Stomatal movement is not affected by  
+(1) O2 concentration 
+(2) Light 
+(3) Temperature 
+(4) CO2 concentration 
+123. The  stage  during  which  separation  of  the  paired 
+homologous chromosomes begins is  
+(1) Diakinesis 
+(2) Diplotene 
+(3) Pachytene 
+(4) Zygotene 
+124. Stomata in grass leaf are  
+(1) Rectangular 
+(2) Kidney shaped 
+(3) Dumb-bell shaped 
+(4) Barrel shaped  
+----------------Page (14) Break----------------
+ACHLA/AA/Page 16 SPACE FOR ROUGH WORK English 
+125. Secondary  xylem  and  phloem  in  dicot  stem  are 
+produced by 
+(1) Phellogen 
+(2) Vascular cambium 
+(3) Apical meristems 
+(4) Axillary meristems 
+126. Pneumatophores occur in 
+(1) Carnivorous plants 
+(2) Free-floating hydrophytes 
+(3) Halophytes 
+(4) Submerged hydrophytes 
+127. Casparian strips occur in 
+(1) Cortex 
+(2) Pericycle 
+(3) Epidermis 
+(4) Endodermis 
+128. Plants having little or no secondary growth are 
+(1) Conifers 
+(2) Deciduous angiosperms 
+(3) Grasses 
+(4) Cycads 
+129. Sweet potato is a modified 
+(1) Tap root 
+(2) Adventitious root 
+(3) Stem 
+(4) Rhizome  
+130. Which of the following statements is correct ? 
+(1) Horsetails are gymnosperms.  
+(2) Selaginella is heterosporous, while Salvinia 
+is homosporous. 
+(3) Ovules  are  not  enclosed  by  ovary  wall  in 
+gymnosperms. 
+(4) Stems   are   usually   unbranched   in   both 
+Cycas and Cedrus.  
+131. Select the wrong statement : 
+(1) Pseudopodia   are   locomotory   and   feeding 
+structures in Sporozoans. 
+(2) Mushrooms belong to Basidiomycetes. 
+(3) Cell  wall  is  present  in  members  of  Fungi 
+and Plantae. 
+(4) Mitochondria are the powerhouse of the cell 
+in all kingdoms except Monera. 
+132. After  karyogamy  followed  by  meiosis,  spores  are 
+produced exogenously in  
+(1) Agaricus 
+(2) Alternaria 
+(3) Neurospora 
+(4) Saccharomyces 
+133. Match the items given in Column I with those in 
+Column  II  and  select  the correct option  given  
+below : 
+        Column I    Column II 
+a. Herbarium i. It is a place having a 
+   collection of preserved 
+   plants and animals. 
+b. Key ii. A list that enumerates  
+   methodically all the  
+   species found in an area  
+   with brief description   
+   aiding identification. 
+c. Museum iii. Is a place where dried and  
+   pressed plant specimens 
+   mounted on sheets are  
+   kept. 
+d. Catalogue iv. A booklet containing a list 
+  of characters and their 
+  alternates which are  
+  helpful in identification of
+  various taxa.  
+ a b c d  
+(1) ii iv iii i  
+(2) iii ii i iv  
+(3) i iv iii ii  
+(4) iii iv i ii  
+134. Winged pollen grains are present in  
+(1) Mango 
+(2) Cycas 
+(3) Mustard 
+(4) Pinus 
+135. Which one is wrongly matched ? 
+(1) Gemma cups  –  Marchantia 
+(2) Biflagellate zoospores  –  Brown algae 
+(3) Uniflagellate gametes  –  Polysiphonia 
+(4) Unicellular organism  – Chlorella 
+----------------Page (15) Break----------------
+ACHLA/AA/Page 17 SPACE FOR ROUGH WORK English 
+136. Which    of    the    following    options    correctly 
+represents  the  lung  conditions  in  asthma  and 
+emphysema, respectively ?  
+(1) Increased      respiratory      surface; 
+Inflammation of bronchioles 
+(2) Increased number of bronchioles; Increased 
+respiratory surface 
+(3) Inflammation    of    bronchioles;    Decreased 
+respiratory surface 
+(4) Decreased      respiratory      surface; 
+Inflammation of bronchioles 
+137. Match the items given in Column I with those in 
+Column  II  and  select  the correct option  given 
+below : 
+ Column I    Column II 
+a. Tricuspid valve i. Between left atrium  
+   and left ventricle 
+b. Bicuspid valve ii. Between right  
+   ventricle and  
+   pulmonary artery 
+c. Semilunar valve iii. Between right 
+   atrium and right  
+   ventricle 
+ a b c 
+(1) i ii iii 
+(2) i iii ii 
+(3) iii i ii 
+(4) ii i iii 
+138. Match the items given in Column I with those in 
+Column  II  and  select  the correct option  given 
+below : 
+ Column I   Column II 
+a. Tidal volume i. 2500 – 3000 mL 
+b. Inspiratory Reserve ii. 1100 – 1200 mL 
+ volume 
+c. Expiratory Reserve iii. 500 – 550 mL 
+ volume 
+d. Residual volume iv. 1000 – 1100 mL 
+ a b c d  
+(1) i iv ii iii 
+(2) iii i iv ii 
+(3) iii ii i iv 
+(4) iv iii ii i 
+139. The transparent lens in the human eye is held in 
+its place by 
+(1) smooth muscles attached to the iris 
+(2) ligaments attached to the iris 
+(3) ligaments attached to the ciliary body 
+(4) smooth muscles attached to the ciliary body 
+140. Which  of  the  following  is  an  amino  acid  derived 
+hormone ? 
+(1) Estradiol 
+(2) Ecdysone 
+(3) Epinephrine 
+(4) Estriol 
+141. Which   of   the   following  hormones   can   play   a 
+significant role in osteoporosis ? 
+(1) Estrogen and Parathyroid hormone   
+(2) Progesterone and Aldosterone 
+(3) Aldosterone and Prolactin 
+(4) Parathyroid hormone and Prolactin 
+142. Which  of  the  following  structures  or  regions  is 
+incorrectly paired with its function ? 
+(1) Hypothalamus : production of  
+    releasing hormones  
+    and regulation of  
+    temperature,  
+    hunger and thirst. 
+(2) Limbic system  : consists of fibre  
+    tracts that  
+    interconnect  
+    different regions of  
+    brain; controls  
+    movement. 
+(3) Medulla oblongata  : controls respiration  
+    and cardiovascular  
+    reflexes. 
+(4) Corpus callosum : band of fibers  
+    connecting left and  
+    right cerebral  
+    hemispheres.  
+----------------Page (16) Break----------------
+ACHLA/AA/Page 18 SPACE FOR ROUGH WORK English 
+143. The  amnion  of  mammalian  embryo  is  derived 
+from  
+(1) mesoderm and trophoblast 
+(2) endoderm and mesoderm 
+(3) ectoderm and mesoderm  
+(4) ectoderm and endoderm 
+144. Hormones  secreted  by  the  placenta  to  maintain 
+pregnancy are 
+(1) hCG, hPL, progestogens, estrogens 
+(2) hCG, hPL, estrogens, relaxin, oxytocin 
+(3) hCG, hPL, progestogens, prolactin 
+(4) hCG, progestogens, estrogens, 
+glucocorticoids 
+145. The    difference    between    spermiogenesis    and 
+spermiation is  
+(1) In spermiogenesis spermatozoa from sertoli 
+cells    are    released    into    the    cavity    of 
+seminiferous  tubules,  while  in  spermiation 
+spermatozoa are formed. 
+(2) In  spermiogenesis  spermatozoa  are  formed, 
+while    in    spermiation    spermatids    are 
+formed. 
+(3) In  spermiogenesis  spermatids  are  formed, 
+while    in    spermiation    spermatozoa    are 
+formed. 
+(4) In  spermiogenesis  spermatozoa  are  formed,  
+while    in    spermiation    spermatozoa    are 
+released from sertoli cells into the cavity of 
+seminiferous tubules. 
+146. The contraceptive ‘SAHELI’ 
+(1) is an IUD.  
+(2) increases the concentration of estrogen and 
+prevents ovulation in females. 
+(3) blocks   estrogen   receptors   in   the   uterus, 
+preventing eggs from getting implanted. 
+(4) is a post-coital contraceptive. 
+147. Ciliates differ from all other protozoans in 
+(1) using pseudopodia for capturing prey 
+(2) having  a  contractile  vacuole  for  removing 
+excess water 
+(3) using flagella for locomotion  
+(4) having two types of nuclei 
+148. Identify    the    vertebrate    group    of    animals 
+characterized by crop and gizzard in its digestive 
+system. 
+(1) Aves 
+(2) Reptilia 
+(3) Amphibia 
+(4) Osteichthyes 
+149. Which of the following features is used to identify 
+a male cockroach from a female cockroach ? 
+(1) Forewings with darker tegmina 
+(2) Presence of caudal styles 
+(3) Presence  of  a  boat  shaped  sternum  on  the 
+9th abdominal segment 
+(4) Presence of anal cerci 
+150. Which    one    of    these    animals    is not a  
+homeotherm ? 
+(1) Camelus 
+(2) Chelone 
+(3) Macropus 
+(4) Psittacula 
+151. Which of the following animals does not undergo 
+metamorphosis ? 
+(1) Moth 
+(2) Tunicate 
+(3) Earthworm  
+(4) Starfish 
+152. Which  of  the  following  organisms  are  known  as 
+chief producers in the oceans ? 
+(1) Cyanobacteria 
+(2) Diatoms 
+(3) Dinoflagellates 
+(4) Euglenoids 
+----------------Page (17) Break----------------
+ACHLA/AA/Page 19 SPACE FOR ROUGH WORK English 
+153. Which     one     of     the     following     population 
+interactions is widely used in medical science for 
+the production of antibiotics ? 
+(1) Parasitism 
+(2) Mutualism 
+(3) Commensalism 
+(4) Amensalism 
+154. All  of  the  following  are  included  in  ‘Ex-situ 
+conservation’ except 
+(1) Botanical gardens 
+(2) Sacred groves 
+(3) Wildlife safari parks 
+(4) Seed banks 
+155. Match the items given in Column I with those in 
+Column  II  and  select  the correct option  given 
+below :  
+ Column I      Column II 
+a. Eutrophication i. UV-B radiation 
+b. Sanitary landfill ii. Deforestation 
+c. Snow blindness iii. Nutrient  
+   enrichment 
+d. Jhum cultivation iv. Waste disposal 
+ a b c d  
+(1) iii iv i ii 
+(2) i iii iv ii 
+(3) ii i iii iv 
+(4) i ii iv iii 
+156. In  a growing population of a country,  
+(1) reproductive         and         pre-reproductive 
+individuals are equal in number. 
+(2) reproductive  individuals  are  less  than  the 
+post-reproductive individuals.  
+(3) pre-reproductive  individuals  are  more  than 
+the reproductive individuals. 
+(4) pre-reproductive  individuals  are  less  than 
+the reproductive individuals. 
+157. Which  part  of  poppy  plant  is  used  to  obtain  the 
+drug ‘‘Smack’’ ?  
+(1) Roots 
+(2) Latex 
+(3) Flowers 
+(4) Leaves 
+158. All of the following are part of an operon except 
+(1) an enhancer 
+(2) structural genes 
+(3) an operator 
+(4) a promoter 
+159. A woman has an X-linked condition on one of her 
+X    chromosomes.    This    chromosome    can    be 
+inherited by 
+(1) Only grandchildren  
+(2) Only sons 
+(3) Only daughters 
+(4) Both sons and daughters 
+160. According  to  Hugo  de  Vries,  the  mechanism  of 
+evolution is 
+(1) Phenotypic variations 
+(2) Saltation 
+(3) Multiple step mutations 
+(4) Minor mutations 
+161. AGGTATCGCAT  is  a  sequence  from  the  coding 
+strand of a gene. What will be the corresponding 
+sequence of the transcribed mRNA ? 
+(1) ACCUAUGCGAU 
+(2) UGGTUTCGCAT 
+(3) AGGUAUCGCAU 
+(4) UCCAUAGCGUA 
+162. Match the items given in Column I with those in 
+Column  II and  select  the correct option  given 
+below :  
+ Column I    Column II 
+a. Proliferative Phase i. Breakdown of  
+   endometrial  
+  lining 
+b. Secretory Phase ii. Follicular Phase 
+c. Menstruation iii. Luteal Phase 
+ a b c 
+(1) ii iii i 
+(2) i iii ii 
+(3) iii ii i 
+(4) iii i ii 
+----------------Page (18) Break----------------
+ACHLA/AA/Page 20 SPACE FOR ROUGH WORK English 
+163. Match the items given in Column I with those in 
+Column  II  and  select  the correct option  given 
+below :  
+ Column I    Column II 
+a. Glycosuria i. Accumulation of uric 
+   acid in joints  
+b. Gout ii. Mass of crystallised  
+   salts within the kidney 
+c. Renal calculi iii. Inflammation in  
+   glomeruli 
+d. Glomerular iv. Presence of glucose in 
+ nephritis   urine 
+ a b c  d  
+(1) ii iii i iv 
+(2) i ii iii iv 
+(3) iii ii iv i 
+(4) iv i ii iii 
+164. Match the items given in Column I with those in 
+Column  II  and select  the correct option  given 
+below : 
+ Column I    Column II 
+ (Function)  (Part of Excretory  
+   System) 
+a. Ultrafiltration i. Henle’s loop 
+b. Concentration ii. Ureter 
+ of urine 
+c. Transport of iii. Urinary bladder 
+ urine 
+d. Storage of urine iv. Malpighian  
+   corpuscle   
+  v. Proximal  
+   convoluted tubule 
+ a b c d  
+(1) v iv i ii 
+(2) iv i ii iii 
+(3) iv v ii iii 
+(4) v iv i iii 
+165. Which  of  the  following  gastric  cells  indirectly 
+help in erythropoiesis ? 
+(1) Goblet cells 
+(2) Mucous cells 
+(3) Chief cells 
+(4) Parietal cells 
+166. Match the items given in Column I with those in 
+Column  II  and  select  the correct option  given 
+below :  
+ Column I    Column II 
+a. Fibrinogen i. Osmotic balance 
+b. Globulin ii. Blood clotting 
+c. Albumin iii. Defence mechanism 
+ a b c 
+(1) i iii ii 
+(2) i ii iii  
+(3) iii ii i 
+(4) ii iii i 
+167. Which   of   the   following   is   an   occupational 
+respiratory disorder ? 
+(1) Botulism 
+(2) Silicosis 
+(3) Anthracis 
+(4) Emphysema 
+168. Calcium    is    important    in    skeletal    muscle 
+contraction because it 
+(1) detaches the  myosin  head  from  the  actin 
+filament. 
+(2) activates  the  myosin  ATPase  by  binding  to 
+it. 
+(3) binds to troponin to remove the masking of  
+active sites on actin for myosin. 
+(4) prevents  the  formation  of  bonds  between 
+the   myosin   cross   bridges   and   the   actin 
+filament.   
+----------------Page (19) Break----------------
+ACHLA/AA/Page 21 SPACE FOR ROUGH WORK English 
+169. Nissl bodies are mainly composed of 
+(1) Nucleic acids and SER 
+(2) DNA and RNA 
+(3) Proteins and lipids 
+(4) Free ribosomes and RER 
+170. Which of these statements is incorrect ? 
+(1) Glycolysis operates as long as it is supplied 
+with NAD that can pick up hydrogen atoms. 
+(2) Glycolysis occurs in cytosol. 
+(3) Enzymes   of   TCA   cycle   are   present   in 
+mitochondrial matrix. 
+(4) Oxidative  phosphorylation  takes  place  in 
+outer mitochondrial membrane. 
+171. Select the incorrect match : 
+(1) Submetacentric – L-shaped chromososmes 
+ chromosomes 
+(2) Allosomes  – Sex chromosomes  
+(3) Lampbrush – Diplotene bivalents 
+ chromosomes 
+(4) Polytene – Oocytes of amphibians 
+ chromosomes 
+172. Which  of  the  following  terms  describe  human 
+dentition ? 
+(1) Pleurodont, Monophyodont, Homodont 
+(2) Thecodont, Diphyodont, Heterodont 
+(3) Thecodont, Diphyodont, Homodont 
+(4) Pleurodont, Diphyodont, Heterodont 
+173. Which  of  the  following  events does not occur  in 
+rough endoplasmic reticulum ?  
+(1) Cleavage of signal peptide 
+(2) Protein glycosylation 
+(3) Protein folding 
+(4) Phospholipid synthesis 
+174. Many   ribosomes   may   associate   with   a   single 
+mRNA  to  form  multiple  copies  of  a  polypeptide 
+simultaneously.  Such  strings  of  ribosomes  are 
+termed as  
+(1) Plastidome 
+(2) Polyhedral bodies 
+(3) Polysome 
+(4) Nucleosome 
+175. In   which   disease   does   mosquito   transmitted 
+pathogen     cause     chronic     inflammation     of 
+lymphatic vessels ? 
+(1) Ringworm disease 
+(2) Ascariasis 
+(3) Elephantiasis 
+(4) Amoebiasis 
+176. Which  of  the  following  is not an  autoimmune 
+disease ? 
+(1) Alzheimer’s disease 
+(2) Rheumatoid arthritis 
+(3) Psoriasis 
+(4) Vitiligo 
+177. Among    the    following   sets    of    examples    for 
+divergent evolution, select the incorrect option : 
+(1) Brain of bat, man and cheetah 
+(2) Heart of bat, man and cheetah 
+(3) Forelimbs of man, bat and cheetah 
+(4) Eye of octopus, bat and man 
+178. Conversion    of    milk    to    curd    improves    its 
+nutritional value by increasing the amount of 
+(1) Vitamin B12 
+(2) Vitamin A 
+(3) Vitamin D 
+(4) Vitamin E 
+179. The  similarity  of  bone  structure  in  the  forelimbs 
+of many vertebrates is an example of  
+(1) Convergent evolution 
+(2) Analogy 
+(3) Homology 
+(4) Adaptive radiation 
+180. Which  of  the  following  characteristics  represent 
+‘Inheritance of blood groups’ in humans ?  
+a. Dominance 
+b. Co-dominance 
+c. Multiple allele 
+d. Incomplete dominance 
+e. Polygenic inheritance 
+(1) b, d and e 
+(2) a, b and c 
+(3) b, c and e 
+(4) a, c and e 
+----------------Page (20) Break----------------
+ACHLA/AA/Page 22 SPACE FOR ROUGH WORK English 
+SPACE FOR ROUGH WORK 
+ 
+----------------Page (21) Break----------------
+ACHLA/AA/Page 23 SPACE FOR ROUGH WORK English 
+SPACE FOR ROUGH WORK 
+ 
+ 
+----------------Page (22) Break----------------
+ACHLA/AA/Page 24 SPACE FOR ROUGH WORK English 
+ 
+Read carefully the following instructions : 
+1. Each candidate must show on demand his/her Admit Card to the Invigilator. 
+2. No  candidate,  without  special  permission  of  the  Superintendent  or  Invigilator, would leave 
+his/her seat. 
+3. The  candidates  should  not  leave  the  Examination  Hall  without  handing  over  their  Answer 
+Sheet  to  the  Invigilator  on  duty and  sign  the  Attendance  Sheet  twice. Cases  where  a 
+candidate  has  not  signed  the  Attendance  Sheet  second  time will  be  deemed  not  to 
+have handed over the Answer Sheet and dealt with as an unfair means case. 
+4. Use of Electronic/Manual Calculator is prohibited. 
+5. The candidates are governed by all Rules and Regulations of the examination with regard to 
+their  conduct  in  the  Examination  Hall.  All  cases  of  unfair  means  will  be  dealt  with  as  per 
+Rules and Regulations of this examination. 
+6. No part of the Test Booklet and Answer Sheet shall be detached under any circumstances. 
+7. The candidates will write the Correct Test Booklet Code as given in the Test Booklet/Answer 
+Sheet in the Attendance Sheet. 
+ 
+----------------Page (23) Break----------------
